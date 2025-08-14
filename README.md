@@ -14,11 +14,6 @@ My work spans from developing user interfaces to integrating backend APIs, alway
 
 ---
 
-### 🌐 Connect with Me
-💌 e.ledesma.higonet@gmail.com
-
----
-
 ### 🛠 Languages and Tools
 <div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px;">
   <!-- Frontend -->
@@ -42,5 +37,7 @@ My work spans from developing user interfaces to integrating backend APIs, alway
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </div>
 
-
 ---
+
+### 🌐 Connect with Me
+💌 e.ledesma.higonet@gmail.com
