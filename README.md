@@ -18,8 +18,8 @@ My work spans from developing user interfaces to integrating backend APIs, alway
 <p align="left">
 <a href="https://www.linkedin.com/in/eduardo-ledesma-higonet-597709241/" target="_blank" style="text-decoration:none;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://eduardolh-portfolio.vercel.app" target="_blank" style="text-decoration:none;"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" alt="Portfolio" height="30" width="40" /></a>
-<a href="https://github.com/Eduardo-Ledesma" target="_blank" style="text-decoration:none;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://gitlab.com/Eduardo-Ledesma" target="_blank" style="text-decoration:none;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="30" width="40" /></a>
+<a href="https://github.com/Eduardo-Ledesma" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" style="filter: invert(1);" alt="GitHub" height="30" width="40"/></a>
+<a href="https://gitlab.com/Eduardo-Ledesma" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" style="filter: invert(1);" alt="Vercel" height="30" width="40"/></a>
 </p>
 
 ---
