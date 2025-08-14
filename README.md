@@ -6,6 +6,11 @@
 <h1 align="center">Hi 👋, I'm Eduardo Ledesma</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
+---
+
+### 💡 About Me
+I focus on building scalable and maintainable applications by using modern JavaScript frameworks.  
+My work spans from developing user interfaces to integrating backend APIs, always with a focus on performance, accessibility, and clean code.  
 
 ---
 
@@ -32,14 +37,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Ledesma&show_icons=true&theme=radical" alt="Eduardo's stats" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Ledesma&layout=compact&theme=radical" alt="Top languages" /></p>
-
----
-
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1fddff,100:ff4b1f&height=100&section=footer"/>
-</p>
