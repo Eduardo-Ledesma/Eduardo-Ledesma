@@ -27,52 +27,26 @@ My work spans from developing user interfaces to integrating backend APIs, alway
 ### 🛠 Languages and Tools
 <p align="left">
   <!-- Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration:none; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration:none; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" style="text-decoration:none; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" style="text-decoration:none; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" style="text-decoration:none; margin-right:10px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration:none; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration:none; margin-right:10px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" style="text-decoration:none; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="vertical-align:middle; margin-right:20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="vertical-align:middle; margin-right:20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="vertical-align:middle; margin-right:20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="vertical-align:middle; margin-right:20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="vertical-align:middle; margin-right:20px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="vertical-align:middle; margin-right:20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="vertical-align:middle; margin-right:20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="vertical-align:middle; margin-right:20px;"/>
 
   <!-- Backend -->
-  <a href="https://nodejs.org/" target="_blank" style="text-decoration:none; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" style="text-decoration:none; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="vertical-align:middle; margin-right:20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="vertical-align:middle; margin-right:20px;"/>
 
   <!-- Base de datos -->
-  <a href="https://www.mysql.com/" target="_blank" style="text-decoration:none; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align:middle; margin-right:20px;"/>
 
   <!-- Otros / DevOps -->
-  <a href="https://www.docker.com/" target="_blank" style="text-decoration:none; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="vertical-align:middle; margin-right:20px;"/>
 </p>
+
 
 
 
